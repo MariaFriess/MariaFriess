@@ -3,9 +3,12 @@
 ### 🖋 My contacts: <br>
 [<img src='https://img.icons8.com/?size=100&id=l7PLniR__Vsn&format=png&color=000000' alt='telegram' height='40'>](https://t.me/MariaFriess)[<img src='https://img.icons8.com/?size=100&id=s1rM4KTx2Huf&format=png&color=000000' alt='kaggle' height='40'>](https://www.kaggle.com/pechka2466) 
 [<img src='https://img.icons8.com/?size=100&id=42961&format=png&color=000000' alt='whatsapp' height='40'>](https://t.me/MariaFriess)[<img src='https://img.icons8.com/?size=100&id=108813&format=png&color=000000' alt='mail' height='40'>](https://www.kaggle.com/pechka2466) 
+<br>
 
-- 💻 Tools:
-- 🔬 Technologies:
+### 💻 Skills: <br>
+[<img src='https://img.icons8.com/?size=100&id=121464&format=png&color=000000' alt='python' height='40'>] [<img src='https://img.icons8.com/?size=100&id=13406&format=png&color=000000' alt='sql' height='40'>] [<img src='https://img.icons8.com/?size=100&id=CgWei7hH4lGJ&format=png&color=000000' alt='git' height='40'>] [<img src='https://img.icons8.com/?size=100&id=TkG10j-DmXkU&format=png&color=000000' alt='docker' height='40'>] [<img src='https://img.icons8.com/?size=100&id=j7fQEhbR8p3D&format=png&color=000000' alt='english' height='40'>] - English C1
+
+- 🔬 Tools:
   
 
 <img src="https://github.com/MariaFriess/MariaFriess/blob/main/stary%20sky%20pink.png?raw=true" href="https://github.com/MariaFriess" alt="Stary sky" width=1000 height=200 align='centre'/> <br>
