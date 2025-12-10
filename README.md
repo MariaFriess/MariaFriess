@@ -6,7 +6,7 @@
 ### 💻 Skills: 
 <img src='https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZmJncm16OW9wdmxyZzNvcTRxa2lveWV4Y3N0NDVzdGNnNXQzY2J2aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cCCWygFWkpChuiPlWi/giphy.gif' height=250 width=500 align='right'>
 
-<img src='https://img.icons8.com/?size=100&id=121464&format=png&color=000000' alt='python' height='45'>  <img src='https://img.icons8.com/?size=100&id=13406&format=png&color=000000' alt='sql' height='45'>  <img src='https://img.icons8.com/?size=100&id=CgWei7hH4lGJ&format=png&color=000000' alt='git' height='45'>  <img src='https://img.icons8.com/?size=100&id=TkG10j-DmXkU&format=png&color=000000' alt='docker' height='45'>  <img src='https://img.icons8.com/?size=100&id=15534&format=png&color=000000' alt='english' height='45'> <sup> English C1 </sup>
+<img src='https://img.icons8.com/?size=100&id=121464&format=png&color=000000' alt='python' height='45'>  <img src='https://img.icons8.com/?size=100&id=13406&format=png&color=000000' alt='sql' height='45'>  <img src='https://img.icons8.com/?size=100&id=CgWei7hH4lGJ&format=png&color=000000' alt='git' height='45'>  <img src='https://img.icons8.com/?size=100&id=TkG10j-DmXkU&format=png&color=000000' alt='docker' height='45'>  <img src='https://img.icons8.com/?size=100&id=15534&format=png&color=000000' alt='english' height='45'> <sup><i> *English C1 </i></sup>
 <br>
 <img src='https://img.icons8.com/?size=100&id=RwtOBojoLS2N&format=png&color=000000' alt='js' height='35'>  <img src='https://img.icons8.com/?size=100&id=rBjXs3DHrM1d&format=png&color=000000' alt='html' height='35'>  <img src='https://img.icons8.com/?size=100&id=107497&format=png&color=000000' alt='css' height='35'>  <img src='https://img.icons8.com/?size=100&id=121463&format=png&color=000000' alt='php' height='35'>
 <br>
