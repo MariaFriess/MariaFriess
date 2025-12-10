@@ -2,9 +2,8 @@
 
 [<img src='https://img.icons8.com/?size=100&id=l7PLniR__Vsn&format=png&color=000000' alt='telegram' height='40'>](https://t.me/MariaFriess)  
 [<img src='https://img.icons8.com/?size=100&id=s1rM4KTx2Huf&format=png&color=000000' alt='kaggle' height='40'>](https://www.kaggle.com/pechka2466) 
-<a href="https://www.vecteezy.com/vector-art/7162559-incredible-mountain-landscape-lake-with-blue-water-night-sky-with-moon-and-stars-reflection-in-water-view-vector-illustration">incredible-mountain-landscape-lake-with-blue-water-night-sky-with-moon-and-stars-reflection-in-water-view-vector-illustration Vectors by Vecteezy</a>
-[<img src='https://assets.pinterest.com/ext/embed.html?id=639792690848205372' alt='pict' height='40'>] 
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=639792690848205372&format=png" height="658" width="345" frameborder="0" scrolling="no" ></iframe>
+[<img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHl5OHhmc3JlaXQ2YTl3ajcyaTBzaXNqcXUzZ3hsd3A4aTkyMzZ6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IFrHkIglEOg8Ba/giphy.gif' alt='gal' height='200'>]
+https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHl5OHhmc3JlaXQ2YTl3ajcyaTBzaXNqcXUzZ3hsd3A4aTkyMzZ6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IFrHkIglEOg8Ba/giphy.gif
 
 <!--
 **MariaFriess/MariaFriess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
