@@ -1,6 +1,6 @@
 ## Hi there! I am Maria 🔮🤍
 
-[<img src='https://img.icons8.com/?size=100&id=MLqlZ5wjVQ44&format=png&color=4682B4' alt='telegram' height='40'>](https://t.me/MariaFriess)  
+[<img src='https://img.icons8.com/?size=100&id=HTBOiI9JKlWY&format=png&color=4682b4' alt='telegram' height='40'>](https://t.me/MariaFriess)  
 
 <!--
 **MariaFriess/MariaFriess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
