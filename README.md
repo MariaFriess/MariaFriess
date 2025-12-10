@@ -4,14 +4,18 @@
 <br>
 
 ### 💻 Skills: 
+<!-- Planet gif -->
 <img src='https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZmJncm16OW9wdmxyZzNvcTRxa2lveWV4Y3N0NDVzdGNnNXQzY2J2aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cCCWygFWkpChuiPlWi/giphy.gif' height=250 width=500 align='right'>
 
+<!-- Main skills -->
 <img src='https://img.icons8.com/?size=100&id=121464&format=png&color=000000' alt='python' height='45'>  <img src='https://img.icons8.com/?size=100&id=13406&format=png&color=000000' alt='sql' height='45'>  <img src='https://img.icons8.com/?size=100&id=CgWei7hH4lGJ&format=png&color=000000' alt='git' height='45'>  <img src='https://img.icons8.com/?size=100&id=TkG10j-DmXkU&format=png&color=000000' alt='docker' height='45'>  <img src='https://img.icons8.com/?size=100&id=15534&format=png&color=000000' alt='english' height='45'> <sup><i> *English C1 </i></sup>
 <br>
+<!-- Briefly know -->
 <img src='https://img.icons8.com/?size=100&id=RwtOBojoLS2N&format=png&color=000000' alt='js' height='35'>  <img src='https://img.icons8.com/?size=100&id=rBjXs3DHrM1d&format=png&color=000000' alt='html' height='35'>  <img src='https://img.icons8.com/?size=100&id=107497&format=png&color=000000' alt='css' height='35'>  <img src='https://img.icons8.com/?size=100&id=121463&format=png&color=000000' alt='php' height='35'>
 <br>
 
-- 🔬 Tools:
+### 🔬 Technologies: <br>
+<img src='https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000' alt='numpy' height='45'>  <img src='https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000' alt='pandas' height='45'>  <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/2074a91a-3985-4036-ac11-338d4617dc07" />  <img src='https://img.icons8.com/?size=100&id=121463&format=png&color=000000' alt='pytorch' height='45'>  <img src='https://img.icons8.com/?size=100&id=121463&format=png&color=000000' alt='tensorflow' height='45'>  <img src='https://img.icons8.com/?size=100&id=TkX1totjFmAD&format=png&color=000000' alt='matplotlib' height='45'>  <img src='https://img.icons8.com/?size=100&id=121463&format=png&color=000000' alt='seaborn' height='45'>
   
 
 ## 🖋 My contacts: <br>
@@ -19,7 +23,10 @@
 [<img src='https://img.icons8.com/?size=100&id=42961&format=png&color=000000' alt='whatsapp' height='40'>](https://t.me/MariaFriess)[<img src='https://img.icons8.com/?size=100&id=108813&format=png&color=000000' alt='mail' height='40'>](https://www.kaggle.com/pechka2466) 
 <br>
 
+<!-- Stary sky image -->
 <img src="https://github.com/MariaFriess/MariaFriess/blob/main/stary%20sky%20pink.png?raw=true" href="https://github.com/MariaFriess" alt="Stary sky" width=1000 height=200 align='centre'/> <br>
+
+
 
 <img src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJycXBmZ2VubjdqanR0YWkyMmx1YmMxejZ4M2JsdDhtcGhqa3hrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7b3mdJsdGrzF6dW/giphy.gif' height=200 align='right'>
 <img src='https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cnFwcjdydWFnbWF2dnhxMHRmdW5ndjFsdTA1amFicjVlbjI5MjJidCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4ydWTcMBjimLbT1CHi/giphy.gif' height=200 align='right'>
