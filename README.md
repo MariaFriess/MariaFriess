@@ -1,5 +1,5 @@
 ## Hi there! I am Maria 🔮🤍
-https://img.shields.io/badge/:badgeContent?style=plastic&logo=gunicorn&logoColor=violet&logoSize=auto&label=Friess&labelColor=white&color=black&cacheSeconds=3600&link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dpm17VwdJ6UI%26t%3D749s
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/MariaFriess)  
 <!--
 **MariaFriess/MariaFriess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
