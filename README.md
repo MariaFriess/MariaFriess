@@ -1,17 +1,12 @@
 ## Hi there! I am Maria 🔮🤍
-
-### 🖋 My contacts: <br>
-[<img src='https://img.icons8.com/?size=100&id=l7PLniR__Vsn&format=png&color=000000' alt='telegram' height='40'>](https://t.me/MariaFriess)[<img src='https://img.icons8.com/?size=100&id=s1rM4KTx2Huf&format=png&color=000000' alt='kaggle' height='40'>](https://www.kaggle.com/pechka2466) 
-[<img src='https://img.icons8.com/?size=100&id=42961&format=png&color=000000' alt='whatsapp' height='40'>](https://t.me/MariaFriess)[<img src='https://img.icons8.com/?size=100&id=108813&format=png&color=000000' alt='mail' height='40'>](https://www.kaggle.com/pechka2466) 
-<br>
-
 ### Обо мне
 <p> Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться. Lorem Ipsum используют потому, что тот обеспечивает более или менее стандартное заполнение шаблона, а также реальное распределение букв и пробелов в абзацах, которое не получается при простой дубликации "Здесь ваш текст.. Здесь ваш текст.. Здесь ваш текст.." Многие программы электронной вёрстки и редакторы HTML используют Lorem Ipsum в качестве текста по умолчанию, так что поиск по ключевым словам "lorem ipsum" сразу показывает, как много веб-страниц всё ещё дожидаются своего настоящего рождения. За прошедшие годы текст Lorem Ipsum получил много версий. Некоторые версии появились по ошибке, некоторые - намеренно (например, юмористические варианты). </p>
 <br>
 
+### 💻 Skills: 
+<img src='https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZmJncm16OW9wdmxyZzNvcTRxa2lveWV4Y3N0NDVzdGNnNXQzY2J2aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cCCWygFWkpChuiPlWi/giphy.gif' height=250 width=500 align='right'>
 
-### 💻 Skills: <br>
-<img src='https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZmJncm16OW9wdmxyZzNvcTRxa2lveWV4Y3N0NDVzdGNnNXQzY2J2aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cCCWygFWkpChuiPlWi/giphy.gif' height=200 width=500 align='right'>
+<br>
 
 <img src='https://img.icons8.com/?size=100&id=121464&format=png&color=000000' alt='python' height='45'>  <img src='https://img.icons8.com/?size=100&id=13406&format=png&color=000000' alt='sql' height='45'>  <img src='https://img.icons8.com/?size=100&id=CgWei7hH4lGJ&format=png&color=000000' alt='git' height='45'>  <img src='https://img.icons8.com/?size=100&id=TkG10j-DmXkU&format=png&color=000000' alt='docker' height='45'>  <img src='https://img.icons8.com/?size=100&id=15534&format=png&color=000000' alt='english' height='45'> 
 <br>
@@ -20,6 +15,11 @@
 
 - 🔬 Tools:
   
+
+## 🖋 My contacts: <br>
+[<img src='https://img.icons8.com/?size=100&id=l7PLniR__Vsn&format=png&color=000000' alt='telegram' height='40'>](https://t.me/MariaFriess)[<img src='https://img.icons8.com/?size=100&id=s1rM4KTx2Huf&format=png&color=000000' alt='kaggle' height='40'>](https://www.kaggle.com/pechka2466) 
+[<img src='https://img.icons8.com/?size=100&id=42961&format=png&color=000000' alt='whatsapp' height='40'>](https://t.me/MariaFriess)[<img src='https://img.icons8.com/?size=100&id=108813&format=png&color=000000' alt='mail' height='40'>](https://www.kaggle.com/pechka2466) 
+<br>
 
 <img src="https://github.com/MariaFriess/MariaFriess/blob/main/stary%20sky%20pink.png?raw=true" href="https://github.com/MariaFriess" alt="Stary sky" width=1000 height=200 align='centre'/> <br>
 
