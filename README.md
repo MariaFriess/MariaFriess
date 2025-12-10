@@ -1,7 +1,7 @@
 ## Hi there! I am Maria 🔮🤍
 
 [<img src='https://img.icons8.com/?size=100&id=HTBOiI9JKlWY&format=png&color=4682b4' alt='telegram' height='40'>](https://t.me/MariaFriess)  
-[<img src='https://img.icons8.com/?size=100&id=bMncK0wGFANA&format=png&color=000000' alt='kaggle' height='40'>](https://www.kaggle.com/pechka2466)  
+[<img src='https://img.icons8.com/?size=100&id=s1rM4KTx2Huf&format=png&color=000000' alt='kaggle' height='40'>](https://www.kaggle.com/pechka2466)  
 
 <!--
 **MariaFriess/MariaFriess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
