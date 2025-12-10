@@ -6,7 +6,9 @@
 <br>
 
 ### 💻 Skills: <br>
-<img src='https://img.icons8.com/?size=100&id=121464&format=png&color=000000' alt='python' height='40'>  <img src='https://img.icons8.com/?size=100&id=13406&format=png&color=000000' alt='sql' height='40'>  <img src='https://img.icons8.com/?size=100&id=CgWei7hH4lGJ&format=png&color=000000' alt='git' height='40'>  <img src='https://img.icons8.com/?size=100&id=TkG10j-DmXkU&format=png&color=000000' alt='docker' height='40'>  <img src='https://img.icons8.com/?size=100&id=15534&format=png&color=000000' alt='english' height='40'> English C1
+<img src='https://img.icons8.com/?size=100&id=121464&format=png&color=000000' alt='python' height='40'>  <img src='https://img.icons8.com/?size=100&id=13406&format=png&color=000000' alt='sql' height='40'>  <img src='https://img.icons8.com/?size=100&id=CgWei7hH4lGJ&format=png&color=000000' alt='git' height='40'>  <img src='https://img.icons8.com/?size=100&id=TkG10j-DmXkU&format=png&color=000000' alt='docker' height='40'>  <img src='https://img.icons8.com/?size=100&id=15534&format=png&color=000000' alt='english' height='40'> 
+<img src='https://img.icons8.com/?size=100&id=RwtOBojoLS2N&format=png&color=000000' alt='js' height='20'>  <img src='https://img.icons8.com/?size=100&id=rBjXs3DHrM1d&format=png&color=000000' alt='html' height='20'>  <img src='https://img.icons8.com/?size=100&id=107497&format=png&color=000000' alt='css' height='20'>  <img src='https://img.icons8.com/?size=100&id=121463&format=png&color=000000' alt='php' height='20'>
+
 
 - 🔬 Tools:
   
