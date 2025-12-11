@@ -18,7 +18,7 @@
 <!-- Python libs -->
 <figure>
   <img src='https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000' alt='numpy' height='45'> 
-  <figurecaption>numpy</figurecaption>
+  <figurecaption style="font-size: 2px;">numpy</figurecaption>
 </figure>
 
 <div class="image-container">
