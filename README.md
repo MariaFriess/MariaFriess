@@ -45,7 +45,7 @@
 <br>
 
 <!-- Stary sky image -->
-<img src="https://github.com/MariaFriess/MariaFriess/blob/main/stary%20sky%20pink.png?raw=true" href="https://github.com/MariaFriess" alt="Stary sky" width=1000 height=200 align='centre'/> <br>
+<img src="https://github.com/MariaFriess/MariaFriess/blob/main/stary%20sky%20pink.png?raw=true" href="https://github.com/MariaFriess" alt="Stary sky" width=1050 height=300 align='centre'/> <br>
 
 
 <img src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJycXBmZ2VubjdqanR0YWkyMmx1YmMxejZ4M2JsdDhtcGhqa3hrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7b3mdJsdGrzF6dW/giphy.gif' height=200 align='right'>
