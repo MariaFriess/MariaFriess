@@ -23,6 +23,9 @@
 | <img src='https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000' alt='numpy' height='45'> | <img src='https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000' alt='pandas' height='45'> | <img src="https://github.com/user-attachments/assets/2074a91a-3985-4036-ac11-338d4617dc07" alt='sklearn' height='45'/> | <img src='https://github.com/user-attachments/assets/2359b79d-c124-4dac-8193-54dcb6b93d52' alt='pytorch' height='45'> |
 |:--:|:--:|:--:|:--:|
 | <sub>*Numpy*</sub> | *Pandas* | <sup>*Sklearn*</sup> | <small> *Pytorch* </small>|
+
+|:--:|
+| <img src='https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000' alt='numpy' height='45'/><br/><sub>very small caption</sub>|
 <!-- Python libs -->
 <div class="image-container">
   <img src='https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000' alt='numpy' height='45'> 
