@@ -15,9 +15,9 @@
 <br>
 
 ### 🔬 Technologies: <br> 
-| <img src='https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000' alt='numpy' height='35'> | <img src='https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000' alt='pandas' height='35'> | <img src="https://github.com/user-attachments/assets/2074a91a-3985-4036-ac11-338d4617dc07" alt='sklearn' height='35'/> | <img src='https://github.com/user-attachments/assets/2359b79d-c124-4dac-8193-54dcb6b93d52' alt='pytorch' height='35'> | 
-|:--:|:--:|:--:|:--:|
-| <sub> *Numpy* </sub> | <sub> *Pandas* </sub> | <sub>*Sklearn*</sub> | <sub> *Pytorch* </sub> |
+| <img src='https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000' alt='numpy' height='30'/> | <img src='https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000' alt='pandas' height='30'/> | <img src="https://github.com/user-attachments/assets/2074a91a-3985-4036-ac11-338d4617dc07" alt='sklearn' height='30'/> | <img src='https://github.com/user-attachments/assets/2359b79d-c124-4dac-8193-54dcb6b93d52' alt='pytorch' height='30'/> | <img src='https://github.com/user-attachments/assets/f856fdd4-513c-4195-afa4-65766f10b301' alt='tensorflow' height='30'/> | <img src='https://img.icons8.com/?size=100&id=TkX1totjFmAD&format=png&color=000000' alt='matplotlib' height='30'/> | <img src="https://github.com/user-attachments/assets/669b9781-7af6-420a-9df9-bc7b44ea39b5" alt="seaborn" height="30"/> |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| <sub>*Numpy*</sub> | <sub>*Pandas*</sub> | <sub>*Sklearn*</sub> | <sub>*Pytorch*</sub> | <sub>*Tensorflow*</sub> | <sub>*Matplotlib*</sub> | <sub>*Seaborn*</sub> | 
 
 |:--:|
 | <img src='https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000' alt='numpy' height='45'/><br/><sub>very small caption</sub>|
