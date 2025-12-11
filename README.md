@@ -19,6 +19,13 @@
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | <sub>*Numpy*</sub> | <sub>*Pandas*</sub> | <sub>*Sklearn*</sub> | <sub>*Pytorch*</sub> | <sub>*Tensorflow*</sub> | <sub>*Matplotlib*</sub> | <sub>*Seaborn*</sub> | 
 
+
+| <img height="30" alt="postgres" src="https://github.com/user-attachments/assets/8e80c352-4f83-4ff1-9789-d7df39bd804f" /> | <img height="30" alt="mysql" src="https://github.com/user-attachments/assets/c82e7380-ff36-4fc3-9456-67f5cea43e29" /> | <img height="30" alt="sqlite" src="https://github.com/user-attachments/assets/82756f5b-8171-43d4-9e57-3e4e03f05fe0" /> |
+|:--:|:--:|:--:|
+| <sub>*Postgres*</sub> | <sub>*MySQL*</sub> | <sub>*SQLite*</sub> |
+
+
+
 |:--:|
 | <img src='https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000' alt='numpy' height='45'/><br/><sub>very small caption</sub>|
 <!-- Python libs -->
