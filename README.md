@@ -20,9 +20,9 @@
 > telegram
 ![alt=telegram heigth=40](https://img.icons8.com/?size=100&id=l7PLniR__Vsn&format=png&color=000000)
 ##### telegram  
-| ![alt=telegram heigth=40](https://img.icons8.com/?size=100&id=l7PLniR__Vsn&format=png&color=000000) |
+| <img src='https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000' alt='numpy' height='45'> |
 |:--:|
-| *Telegram* |
+| *Numpy* |
 <!-- Python libs -->
 <div class="image-container">
   <img src='https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000' alt='numpy' height='45'> 
