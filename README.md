@@ -6,7 +6,7 @@
 
 ### 💻 Skills: 
 <!-- Planet gif -->
-<img src='https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZmJncm16OW9wdmxyZzNvcTRxa2lveWV4Y3N0NDVzdGNnNXQzY2J2aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cCCWygFWkpChuiPlWi/giphy.gif' height=250 width=500 align='right'>
+<img src='https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZmJncm16OW9wdmxyZzNvcTRxa2lveWV4Y3N0NDVzdGNnNXQzY2J2aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cCCWygFWkpChuiPlWi/giphy.gif' height=300 width=500 align='right'>
 
 <!-- Main skills -->
 <img src='https://img.icons8.com/?size=100&id=121464&format=png&color=000000' alt='python' height='45'>  <img src='https://img.icons8.com/?size=100&id=13406&format=png&color=000000' alt='sql' height='45'>  <img src='https://img.icons8.com/?size=100&id=CgWei7hH4lGJ&format=png&color=000000' alt='git' height='45'>  <img src='https://img.icons8.com/?size=100&id=TkG10j-DmXkU&format=png&color=000000' alt='docker' height='45'>  <img src='https://img.icons8.com/?size=100&id=15534&format=png&color=000000' alt='english' height='45'> <sup><i> *English C1 </i></sup>
@@ -16,36 +16,17 @@
 <br>
 
 ### 🔬 Technologies: <br> 
+<!-- ML tools -->
 | <img src='https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000' alt='numpy' height='30'/> | <img src='https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000' alt='pandas' height='30'/> | <img src="https://github.com/user-attachments/assets/2074a91a-3985-4036-ac11-338d4617dc07" alt='sklearn' height='30'/> | <img src='https://github.com/user-attachments/assets/2359b79d-c124-4dac-8193-54dcb6b93d52' alt='pytorch' height='30'/> | <img src='https://github.com/user-attachments/assets/f856fdd4-513c-4195-afa4-65766f10b301' alt='tensorflow' height='30'/> | <img src='https://img.icons8.com/?size=100&id=TkX1totjFmAD&format=png&color=000000' alt='matplotlib' height='30'/> | <img src="https://github.com/user-attachments/assets/669b9781-7af6-420a-9df9-bc7b44ea39b5" alt="seaborn" height="30"/> |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | <sub>*Numpy*</sub> | <sub>*Pandas*</sub> | <sub>*Sklearn*</sub> | <sub>*Pytorch*</sub> | <sub>*Tensorflow*</sub> | <sub>*Matplotlib*</sub> | <sub>*Seaborn*</sub> | 
 
-
+<!-- Django and DB -->
 | <img height="30" alt="django" src="https://github.com/user-attachments/assets/f696ebbe-3571-4376-82c6-1992c7451089" /> | <img height="30" alt="postgres" src="https://github.com/user-attachments/assets/8e80c352-4f83-4ff1-9789-d7df39bd804f" /> | <img height="30" alt="mysql" src="https://github.com/user-attachments/assets/c82e7380-ff36-4fc3-9456-67f5cea43e29" /> | <img height="30" alt="sqlite" src="https://github.com/user-attachments/assets/82756f5b-8171-43d4-9e57-3e4e03f05fe0" /> |
 |:--:|:--:|:--:|:--:|
 | <sub>*Django*</sub>| <sub>*Postgres*</sub> | <sub>*MySQL*</sub> | <sub>*SQLite*</sub> |
 
 
-
-|:--:|
-| <img src='https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000' alt='numpy' height='45'/><br/><sub>very small caption</sub>|
-<!-- Python libs -->
-<div class="image-container">
-  <img src='https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000' alt='numpy' height='45'> 
-  <div class="overlay-text"><sup>numpy</sup></div>  
-  <img src="https://github.com/user-attachments/assets/2074a91a-3985-4036-ac11-338d4617dc07" alt='sklearn' height='45'/>
-  <div class="overlay-text"><sup>sklearn</sup></div>  
-</div>  
-
-<div class="image-container">
-  <img src='https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000' alt='pandas' height='45'> 
-  <div class="overlay-text"><sup>pandas</sup></div>
-</div>
-
-<img src="https://github.com/user-attachments/assets/2074a91a-3985-4036-ac11-338d4617dc07" alt='sklearn' height='45'/>
-<img src='https://github.com/user-attachments/assets/2359b79d-c124-4dac-8193-54dcb6b93d52' alt='pytorch' height='45'>
-<img src='https://github.com/user-attachments/assets/f856fdd4-513c-4195-afa4-65766f10b301' alt='tensorflow' height='45'>  <img src='https://img.icons8.com/?size=100&id=TkX1totjFmAD&format=png&color=000000' alt='matplotlib' height='45'>  <img src="https://github.com/user-attachments/assets/669b9781-7af6-420a-9df9-bc7b44ea39b5" alt="seaborn" height="45">
-  
 
 ## 🖋 My contacts: <br>
 [<img src='https://img.icons8.com/?size=100&id=l7PLniR__Vsn&format=png&color=000000' alt='telegram' height='40'>](https://t.me/MariaFriess)[<img src='https://img.icons8.com/?size=100&id=s1rM4KTx2Huf&format=png&color=000000' alt='kaggle' height='40'>](https://www.kaggle.com/pechka2466) 
@@ -54,7 +35,6 @@
 
 <!-- Stary sky image -->
 <img src="https://github.com/MariaFriess/MariaFriess/blob/main/stary%20sky%20pink.png?raw=true" href="https://github.com/MariaFriess" alt="Stary sky" width=1000 height=200 align='centre'/> <br>
-
 
 
 <img src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJycXBmZ2VubjdqanR0YWkyMmx1YmMxejZ4M2JsdDhtcGhqa3hrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7b3mdJsdGrzF6dW/giphy.gif' height=200 align='right'>
