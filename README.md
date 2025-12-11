@@ -1,9 +1,13 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
 <style>
   .overlay-text {
     text-align: center;
     font-size: 32px;
 </style>
-
+</head>
 
 ## Hi there! I am Maria 🔮🤍
 ### Обо мне
