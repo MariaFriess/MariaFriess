@@ -15,6 +15,8 @@
 <br>
 
 ### 🔬 Technologies: <br>
+
+![alt='telegram' height='40'](https://img.icons8.com/?size=100&id=l7PLniR__Vsn&format=png&color=000000)
 <!-- Python libs -->
 <div class="image-container">
   <img src='https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000' alt='numpy' height='45'> 
@@ -28,7 +30,7 @@
   <div class="overlay-text"><sup>pandas</sup></div>
 </div>
 
-![alt text]<img src="https://github.com/user-attachments/assets/2074a91a-3985-4036-ac11-338d4617dc07" alt='sklearn' height='45'/>
+<img src="https://github.com/user-attachments/assets/2074a91a-3985-4036-ac11-338d4617dc07" alt='sklearn' height='45'/>
 <img src='https://github.com/user-attachments/assets/2359b79d-c124-4dac-8193-54dcb6b93d52' alt='pytorch' height='45'>
 <img src='https://github.com/user-attachments/assets/f856fdd4-513c-4195-afa4-65766f10b301' alt='tensorflow' height='45'>  <img src='https://img.icons8.com/?size=100&id=TkX1totjFmAD&format=png&color=000000' alt='matplotlib' height='45'>  <img src="https://github.com/user-attachments/assets/669b9781-7af6-420a-9df9-bc7b44ea39b5" alt="seaborn" height="45">
   
