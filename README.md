@@ -1,8 +1,8 @@
-<head>
-  <style>
-    
-  </style>
-</head>
+<style>
+  .overlay-text {
+    text-align: center;
+    font-size: 32px;
+</style>
 
 
 ## Hi there! I am Maria 🔮🤍
