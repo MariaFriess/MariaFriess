@@ -16,7 +16,7 @@
 
 ### 🔬 Technologies: <br>
 
-![alt='telegram' height='40'](https://img.icons8.com/?size=100&id=l7PLniR__Vsn&format=png&color=000000)
+![telegram height='40'](https://img.icons8.com/?size=100&id=l7PLniR__Vsn&format=png&color=000000)
 <!-- Python libs -->
 <div class="image-container">
   <img src='https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000' alt='numpy' height='45'> 
