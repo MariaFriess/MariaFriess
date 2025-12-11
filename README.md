@@ -1,14 +1,3 @@
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<style>
-  .overlay-text {
-    text-align: center;
-    font-size: 32px;
-</style>
-</head>
-
 ## Hi there! I am Maria 🔮🤍
 ### Обо мне
 <p> Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться. Lorem Ipsum используют потому, что тот обеспечивает более или менее стандартное заполнение шаблона, а также реальное распределение букв и пробелов в абзацах, которое не получается при простой дубликации "Здесь ваш текст.. Здесь ваш текст.. Здесь ваш текст.." Многие программы электронной вёрстки и редакторы HTML используют Lorem Ipsum в качестве текста по умолчанию, так что поиск по ключевым словам "lorem ipsum" сразу показывает, как много веб-страниц всё ещё дожидаются своего настоящего рождения. За прошедшие годы текст Lorem Ipsum получил много версий. Некоторые версии появились по ошибке, некоторые - намеренно (например, юмористические варианты). </p>
@@ -37,7 +26,8 @@
   <div class="overlay-text"><sup>pandas</sup></div>
 </div>
 
- <img src="https://github.com/user-attachments/assets/2074a91a-3985-4036-ac11-338d4617dc07" alt='sklearn' height='45'/>  <img src='https://github.com/user-attachments/assets/2359b79d-c124-4dac-8193-54dcb6b93d52' alt='pytorch' height='45'>  <img src='https://github.com/user-attachments/assets/f856fdd4-513c-4195-afa4-65766f10b301' alt='tensorflow' height='45'>  <img src='https://img.icons8.com/?size=100&id=TkX1totjFmAD&format=png&color=000000' alt='matplotlib' height='45'>  <img src="https://github.com/user-attachments/assets/669b9781-7af6-420a-9df9-bc7b44ea39b5" alt="seaborn" height="45">
+ <img src="https://github.com/user-attachments/assets/2074a91a-3985-4036-ac11-338d4617dc07" alt='sklearn' height='45'/>
+    - <img src='https://github.com/user-attachments/assets/2359b79d-c124-4dac-8193-54dcb6b93d52' alt='pytorch' height='45'>  <img src='https://github.com/user-attachments/assets/f856fdd4-513c-4195-afa4-65766f10b301' alt='tensorflow' height='45'>  <img src='https://img.icons8.com/?size=100&id=TkX1totjFmAD&format=png&color=000000' alt='matplotlib' height='45'>  <img src="https://github.com/user-attachments/assets/669b9781-7af6-420a-9df9-bc7b44ea39b5" alt="seaborn" height="45">
   
 
 ## 🖋 My contacts: <br>
