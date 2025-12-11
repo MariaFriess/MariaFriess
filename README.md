@@ -31,7 +31,7 @@
 ## 🎓 My education: <br>
 |  |  |
 |:--|:--:|
-| [IThub college Кафедра программирования (09.02.07), квалификация: Дата-инженер, Дата-аналитик](https://ithub.ru/) | 09.2021 - 06.2025 |
+| [IThub college](https://ithub.ru/) Кафедра программирования (09.02.07), квалификация: Дата-инженер, Дата-аналитик | 09.2021 - 06.2025 |
 
 ## 🖋 My contacts: <br>
 [<img src='https://img.icons8.com/?size=100&id=l7PLniR__Vsn&format=png&color=000000' alt='telegram' height='40'>](https://t.me/MariaFriess)[<img src='https://img.icons8.com/?size=100&id=s1rM4KTx2Huf&format=png&color=000000' alt='kaggle' height='40'>](https://www.kaggle.com/pechka2466) 
