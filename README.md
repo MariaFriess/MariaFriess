@@ -22,7 +22,7 @@
 ##### telegram  
 | <img src='https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000' alt='numpy' height='45'> | <img src="https://github.com/user-attachments/assets/2074a91a-3985-4036-ac11-338d4617dc07" alt='sklearn' height='45'/> |
 |:--:|:--:|
-| ##### Numpy | *sklearn* |
+| <sub>*Numpy*</sub> | *sklearn* |
 <!-- Python libs -->
 <div class="image-container">
   <img src='https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000' alt='numpy' height='45'> 
